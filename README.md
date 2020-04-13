@@ -8,3 +8,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 The application allows user to enter their name and then they usernames, and have a list of their popular repository displayed and an option to view the GitHub pages.
 
+## Development server

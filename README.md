@@ -10,3 +10,9 @@ The application allows user to enter their name and then they usernames, and hav
 
 ## Usage by Users
 A user can follow this link to get to the following deployed link:https://hukish.github.io/github-Seacher/
+
+
+## Technologies Used
+  *HTML
+  *CSS
+  *ANGULAR
